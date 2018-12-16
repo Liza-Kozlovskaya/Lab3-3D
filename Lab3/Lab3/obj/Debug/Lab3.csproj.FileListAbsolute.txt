@@ -1,0 +1,16 @@
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\obj\Debug\Lab3.Form2.resources
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\obj\Debug\Lab3.Form3.resources
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\bin\Debug\System.ValueTuple.dll
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\bin\Debug\System.ValueTuple.xml
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\obj\Debug\Lab3.csproj.CopyComplete
+C:\Users\A-Servis\source\repos\графика\Lab3\Lab3\obj\Debug\Lab3.Form5.resources
